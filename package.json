@@ -1,0 +1,28 @@
+{
+  "name": "test-nodemailer",
+  "version": "1.0.0",
+  "description": "Uso de Nodemailer en el envio de Emails usando OAuth2 de Gmail SMTP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaxtian/test-nodemailer.git"
+  },
+  "keywords": [
+    "Nodemailer",
+    "OAuth2",
+    "Gmail",
+    "SMTP"
+  ],
+  "author": "Sebaxtian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebaxtian/test-nodemailer/issues"
+  },
+  "homepage": "https://github.com/sebaxtian/test-nodemailer#readme",
+  "dependencies": {
+    "nodemailer": "^4.0.1"
+  }
+}
